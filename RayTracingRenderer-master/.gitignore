@@ -11,6 +11,5 @@
 !/src/*.pro
 
 !*/workingDir/*.simp
-!*/workingDir/*.obj
 
 !.gitignore
